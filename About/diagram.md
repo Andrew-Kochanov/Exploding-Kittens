@@ -1,3 +1,4 @@
+```mermaid
 classDiagram
     class Game {
         -Int id
@@ -82,3 +83,4 @@ classDiagram
     GameService --> ExplodingKittensValidator
     GameService --> HistoryService
     GameService --> StatisticsService
+```
