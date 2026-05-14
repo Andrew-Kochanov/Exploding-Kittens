@@ -1,4 +1,4 @@
-package edu.exploding-kittens
+package edu.explodingkittens
 
 fun main() {
     println("Exploding Kittens game started!")
