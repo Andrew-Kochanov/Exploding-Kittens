@@ -7,7 +7,7 @@ plugins {
 ktlint {
     version.set("1.3.0") // Рекомендуется указывать версию явно
 }
-group = "edu.battleship"
+group = "edu.explodingkittens"
 version = "1.0.0"
 
 repositories {
