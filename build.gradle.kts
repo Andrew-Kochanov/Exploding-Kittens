@@ -29,7 +29,7 @@ tasks.test {
 }
 
 application {
-    mainClass.set("edu.battleship.MainKt")
+    mainClass.set("edu.explodingkittens.MainKt")
 }
 
 kotlin {
